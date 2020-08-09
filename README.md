@@ -4,6 +4,7 @@ A single page app to get latest news from https://api.canillitapp.com/
 ## Tools
 - CRA (Create React App)
 - React Router & React Redux
+- Github Pages
 
 ## Installation
 - Install dependencies:
