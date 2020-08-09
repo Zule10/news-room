@@ -3,6 +3,8 @@ A single page app to get latest news from https://api.canillitapp.com/
 
 ## Tools
 - CRA (Create React App)
+- FontAwesome
+- React.js - Moment.js
 - React Router & React Redux
 - Github Pages
 
